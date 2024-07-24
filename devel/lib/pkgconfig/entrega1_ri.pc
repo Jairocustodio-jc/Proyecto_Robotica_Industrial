@@ -1,0 +1,8 @@
+prefix=/home/jairo/robotica_industrial_ws/devel
+
+Name: entrega1_ri
+Description: Description of entrega1_ri
+Version: 0.0.0
+Cflags: -I/home/jairo/robotica_industrial_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

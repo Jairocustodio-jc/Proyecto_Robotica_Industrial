@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>entrega1_ri</name>
+  <version>0.0.0</version>
+  <description>The entrega1_ri package</description>
+
+  <maintainer email="jlopezm@utec.edu.pe">Alexander Lopez</maintainer>
+  <author email="jlopezm@utec.edu.pe">Alexander Lopez</author>
+
+  <license>MIT</license>
+
+  <build_depend>message_generation</build_depend>
+  <exec_depend>message_runtime</exec_depend>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>rospy</build_depend>
+  <build_export_depend>rospy</build_export_depend>
+  <exec_depend>rospy</exec_depend>
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+
+  </export>
+</package>

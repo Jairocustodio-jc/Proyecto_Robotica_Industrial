@@ -1,0 +1,36 @@
+# CMake generated Testfile for 
+# Source directory: /home/jairo/robotica_industrial_ws/src
+# Build directory: /home/jairo/robotica_industrial_ws/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("gtest")
+subdirs("open_manipulator/dynamixel-workbench/dynamixel_workbench")
+subdirs("open_manipulator/open_manipulator")
+subdirs("open_manipulator_simulations/open_manipulator_simulations")
+subdirs("ar_track_alvar/ar_track_alvar_msgs")
+subdirs("open_manipulator_msgs")
+subdirs("turtlebot3/turtlebot3/turtlebot3")
+subdirs("turtlebot3/turtlebot3_msgs")
+subdirs("turtlebot3/turtlebot3/turtlebot3_navigation")
+subdirs("turtlebot3/turtlebot3_simulations/turtlebot3_simulations")
+subdirs("open_manipulator/dynamixel-workbench/dynamixel_workbench_toolbox")
+subdirs("entrega1_ri")
+subdirs("open_manipulator/robotis_manipulator")
+subdirs("open_manipulator/open_manipulator_libs")
+subdirs("open_manipulator/dynamixel-workbench/dynamixel_workbench_controllers")
+subdirs("open_manipulator/dynamixel-workbench/dynamixel_workbench_operators")
+subdirs("open_manipulator/open_manipulator_control_gui")
+subdirs("open_manipulator/open_manipulator_controller")
+subdirs("open_manipulator/open_manipulator_teleop")
+subdirs("ar_track_alvar/ar_track_alvar")
+subdirs("open_manipulator_dependencies/roboticsgroup_gazebo_plugins")
+subdirs("turtlebot3/turtlebot3/turtlebot3_bringup")
+subdirs("turtlebot3/turtlebot3/turtlebot3_example")
+subdirs("turtlebot3/turtlebot3_simulations/turtlebot3_fake")
+subdirs("turtlebot3/turtlebot3_simulations/turtlebot3_gazebo")
+subdirs("turtlebot3/turtlebot3/turtlebot3_slam")
+subdirs("turtlebot3/turtlebot3/turtlebot3_teleop")
+subdirs("open_manipulator/open_manipulator_description")
+subdirs("open_manipulator_simulations/open_manipulator_gazebo")
+subdirs("turtlebot3/turtlebot3/turtlebot3_description")

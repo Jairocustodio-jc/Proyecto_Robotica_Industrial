@@ -1,0 +1,8 @@
+prefix=/home/jairo/robotica_industrial_ws/devel
+
+Name: robotis_manipulator
+Description: Description of robotis_manipulator
+Version: 1.1.1
+Cflags: -I/home/jairo/robotica_industrial_ws/src/open_manipulator/robotis_manipulator/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib -lrobotis_manipulator
+Requires: roscpp cmake_modules
